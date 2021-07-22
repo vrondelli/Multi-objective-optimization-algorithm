@@ -1,0 +1,33 @@
+filais,PROXIMIDADE AOS OBJETIVOS DA EMPRESA,rank,1° pior indicador,2° pior indicador,3° pior indicador
+Região Centro-Oeste,65.7153918794479%,2,Equipe-teste,Equipamentos-teste,EPI-test
+Hospitais - DF,67.7525112652379%,14,Equipe-teste,EPI-test,Equipamentos-teste
+Hospitais - GO,68.33381070930281%,12,Equipe-teste,Entrada - Saída-teste,
+Hospitais - MS,81.33749532805523%,3,Equipe-teste,EPI-test,
+Hospitais - MT,45.83065499169668%,25,Equipe-teste,Equipamentos-teste,Entrada - Saída-teste
+Região Nordeste,30.18725528162878%,5,Ocupação-teste,Equipamentos-teste,EPI-test
+Hospitais - AL,46.49570068599871%,24,Equipe-teste,Equipamentos-teste,Ocupação-teste
+Hospitais - BA,79.05874992760461%,6,Ocupação-teste,Equipe-teste,Entrada - Saída-teste
+Hospitais - CE,41.501823582182425%,26,Equipe-teste,Equipamentos-teste,Ocupação-teste
+Hospitais - MA,54.221735576138464%,23,Equipamentos-teste,EPI-test,Equipe-teste
+Hospitais - PB,69.83530536523699%,11,Equipe-teste,EPI-test,Entrada - Saída-teste
+Hospitais - PE,58.84675949602165%,20,Equipamentos-teste,Ocupação-teste,Equipe-teste
+Hospitais - PI,75.77578091201397%,7,Equipe-teste,Equipamentos-teste,Entrada - Saída-teste
+Hospitais - RN,86.82484441698077%,1,Ocupação-teste,Entrada - Saída-teste,EPI-test
+Hospitais - SE,60.65323383954584%,17,Ocupação-teste,EPI-test,Equipamentos-teste
+Região Norte,61.67879899714804%,3,Ocupação-teste,EPI-test,Entrada - Saída-teste
+Hospitais - AC,75.76271215219667%,8,Equipe-teste,Entrada - Saída-teste,EPI-test
+Hospitais - AM,56.236505634403436%,22,Equipamentos-teste,Entrada - Saída-teste,Ocupação-teste
+Hospitais - AP,57.07131049218312%,21,Ocupação-teste,Equipamentos-teste,Entrada - Saída-teste
+Hospitais - PA,59.84266903268384%,19,EPI-test,Equipamentos-teste,Equipe-teste
+Hospitais - TO,79.90118626406137%,5,EPI-test,Entrada - Saída-teste,
+Hospitais - RO,68.30043971013332%,13,Equipe-teste,Entrada - Saída-teste,
+Região Sudeste,46.02343614050269%,4,Ocupação-teste,Equipe-teste,EPI-test
+Hospitais - ES,84.53617237202799%,2,Ocupação-teste,Entrada - Saída-teste,Equipe-teste
+Hospitais - MG,60.238488779907854%,18,Equipe-teste,EPI-test,Equipamentos-teste
+Hospitais - RJ,80.12329421985292%,4,Equipe-teste,Equipamentos-teste,Ocupação-teste
+Hospitais - SP,61.666727321933365%,16,Ocupação-teste,Equipe-teste,Entrada - Saída-teste
+Região Sul,71.17707396468703%,1,Equipe-teste,,
+Hospitais - PR,63.4439801359604%,15,Equipe-teste,Entrada - Saída-teste,
+Hospitais - RS,75.59010170507608%,9,Equipe-teste,Equipamentos-teste,Entrada - Saída-teste
+Hospitais - SC,74.19100575115117%,10,Equipe-teste,EPI-test,Entrada - Saída-teste
+Brasil,61.650397585972186%,,Equipe-teste,Ocupação-teste,Equipamentos-teste

@@ -1,0 +1,262 @@
+"weightedNormalizedMatrix": {
+      "Hospitais - DF": {
+        "Fator de Utilização - FILTRO": 0.018904189556541863,
+        "Fator de Utilização - ÓCULOS": 0.018587516178841437,
+        "Fator de Utilização - CAIXA DE LUVA": 0.06495034664904305,
+        "Fator de Utilização - VISEIRA": 0.020536174335579443,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.027514873131686466,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.019753363821789757,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.030411933014204032,
+        "Fator de Utilização - MÁSCARA-N95": 0.02098794559685878
+      },
+      "Hospitais - GO": {
+        "Fator de Utilização - FILTRO": 0.003903791989724907,
+        "Fator de Utilização - ÓCULOS": 0.01802258444764516,
+        "Fator de Utilização - CAIXA DE LUVA": 0.014808731454601532,
+        "Fator de Utilização - VISEIRA": 0.009445583406948843,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.006917105918685195,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.013666547833049658,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.014028010647858146,
+        "Fator de Utilização - MÁSCARA-N95": 0.00443835715319853
+      },
+      "Hospitais - MS": {
+        "Fator de Utilização - FILTRO": 0.023620181525700484,
+        "Fator de Utilização - ÓCULOS": 0.021138027267043873,
+        "Fator de Utilização - CAIXA DE LUVA": 0.045879749654806914,
+        "Fator de Utilização - VISEIRA": 0.01065041330754626,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.01702714741529588,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.017085420585153693,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.022365466559054362,
+        "Fator de Utilização - MÁSCARA-N95": 0.009480689299402996
+      },
+      "Hospitais - MT": {
+        "Fator de Utilização - FILTRO": 0.0008171894121691186,
+        "Fator de Utilização - ÓCULOS": 0.0019328043280875046,
+        "Fator de Utilização - CAIXA DE LUVA": 0.000980550742033999,
+        "Fator de Utilização - VISEIRA": 0.022346609931397757,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.0009438318053332853,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.00585732124063874,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.005518902064338971,
+        "Fator de Utilização - MÁSCARA-N95": 0.001848841904191965
+      },
+      "Hospitais - AL": {
+        "Fator de Utilização - FILTRO": 0.0008171894121691186,
+        "Fator de Utilização - ÓCULOS": 0.05753809807460485,
+        "Fator de Utilização - CAIXA DE LUVA": 0.017701143750383556,
+        "Fator de Utilização - VISEIRA": 0.04852387356766186,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.005696795529537244,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.024995624799939255,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.034437948881475194,
+        "Fator de Utilização - MÁSCARA-N95": 0.031476533418868156
+      },
+      "Hospitais - BA": {
+        "Fator de Utilização - FILTRO": 0.003924674136195106,
+        "Fator de Utilização - ÓCULOS": 0.020860065440596553,
+        "Fator de Utilização - CAIXA DE LUVA": 0.01859989336754791,
+        "Fator de Utilização - VISEIRA": 0.02512469372929679,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.028154335706878628,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.02640268868021819,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.022712295571561524,
+        "Fator de Utilização - MÁSCARA-N95": 0.01570684304757326
+      },
+      "Hospitais - CE": {
+        "Fator de Utilização - FILTRO": 0.008883772623881216,
+        "Fator de Utilização - ÓCULOS": 0.01666126262566566,
+        "Fator de Utilização - CAIXA DE LUVA": 0.012991089502312179,
+        "Fator de Utilização - VISEIRA": 0.014149987481748415,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.009102488509151897,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.022554016815111034,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.016827723705105033,
+        "Fator de Utilização - MÁSCARA-N95": 0.014709987620250196
+      },
+      "Hospitais - MA": {
+        "Fator de Utilização - FILTRO": 0.023956890221102856,
+        "Fator de Utilização - ÓCULOS": 0.023124058327855433,
+        "Fator de Utilização - CAIXA DE LUVA": 0.03732740399501592,
+        "Fator de Utilização - VISEIRA": 0.033953060300641894,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.016123315480496545,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.02848109707863046,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.05830074202009151,
+        "Fator de Utilização - MÁSCARA-N95": 0.0670026165085202
+      },
+      "Hospitais - PB": {
+        "Fator de Utilização - FILTRO": 0.01948181757076952,
+        "Fator de Utilização - ÓCULOS": 0.012117196364548537,
+        "Fator de Utilização - CAIXA DE LUVA": 0.01950868294576687,
+        "Fator de Utilização - VISEIRA": 0.033168865806345774,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.04485194451334936,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.03206718847754188,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.02733170546148823,
+        "Fator de Utilização - MÁSCARA-N95": 0.022994971183387558
+      },
+      "Hospitais - PE": {
+        "Fator de Utilização - FILTRO": 0.0040247629378443945,
+        "Fator de Utilização - ÓCULOS": 0.007405086557238464,
+        "Fator de Utilização - CAIXA DE LUVA": 0.005650968068556561,
+        "Fator de Utilização - VISEIRA": 0.0054522332377998665,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.0012783832885357052,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.014527600307970604,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.009215643834638961,
+        "Fator de Utilização - MÁSCARA-N95": 0.0062994814880734185
+      },
+      "Hospitais - PI": {
+        "Fator de Utilização - FILTRO": 0.0008171894121691186,
+        "Fator de Utilização - ÓCULOS": 0.004381606191727772,
+        "Fator de Utilização - CAIXA DE LUVA": 0.02207168593481528,
+        "Fator de Utilização - VISEIRA": 0.004917700567427328,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.02784201399883859,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.03284970027025192,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.013841502917923023,
+        "Fator de Utilização - MÁSCARA-N95": 0.009225343787243575
+      },
+      "Hospitais - RN": {
+        "Fator de Utilização - FILTRO": 0.013433789703617562,
+        "Fator de Utilização - ÓCULOS": 0.020963493096949053,
+        "Fator de Utilização - CAIXA DE LUVA": 0.0194304775841038,
+        "Fator de Utilização - VISEIRA": 0.013363682877580768,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.020378428356203328,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.019750587662641983,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.025548710418534702,
+        "Fator de Utilização - MÁSCARA-N95": 0.018185591488646832
+      },
+      "Hospitais - SE": {
+        "Fator de Utilização - FILTRO": 0.0606046076959725,
+        "Fator de Utilização - ÓCULOS": 0.0009190490621843188,
+        "Fator de Utilização - CAIXA DE LUVA": 0.0330883618633387,
+        "Fator de Utilização - VISEIRA": 0.0009971482732045035,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.047880947208855135,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.03182039123425652,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.03929820514346392,
+        "Fator de Utilização - MÁSCARA-N95": 0.05368512218422268
+      },
+      "Hospitais - AC": {
+        "Fator de Utilização - FILTRO": 0.018003990053849447,
+        "Fator de Utilização - ÓCULOS": 0.020899774272946144,
+        "Fator de Utilização - CAIXA DE LUVA": 0.012982090036067862,
+        "Fator de Utilização - VISEIRA": 0.029418387323002775,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.014153529265931076,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.03685035409740536,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.026848332236465353,
+        "Fator de Utilização - MÁSCARA-N95": 0.022136580299298388
+      },
+      "Hospitais - AM": {
+        "Fator de Utilização - FILTRO": 0.02981894425670586,
+        "Fator de Utilização - ÓCULOS": 0.02711026665915433,
+        "Fator de Utilização - CAIXA DE LUVA": 0.01685015933169595,
+        "Fator de Utilização - VISEIRA": 0.0217071773683122,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.03656237665947146,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.02582443587428491,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.02130420981876382,
+        "Fator de Utilização - MÁSCARA-N95": 0.019393030973613574
+      },
+      "Hospitais - AP": {
+        "Fator de Utilização - FILTRO": 0.0008171894121691186,
+        "Fator de Utilização - ÓCULOS": 0.02114190580415713,
+        "Fator de Utilização - CAIXA DE LUVA": 0.012660737095416038,
+        "Fator de Utilização - VISEIRA": 0.021115376811391095,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.0009438318053332853,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.013359957436513109,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.02273859324560443,
+        "Fator de Utilização - MÁSCARA-N95": 0.03376447527530572
+      },
+      "Hospitais - PA": {
+        "Fator de Utilização - FILTRO": 0.0746265387732058,
+        "Fator de Utilização - ÓCULOS": 0.050744691146297316,
+        "Fator de Utilização - CAIXA DE LUVA": 0.02880154815230791,
+        "Fator de Utilização - VISEIRA": 0.041386705977315114,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.05283158636740407,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.028955011958369307,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.019631523057434347,
+        "Fator de Utilização - MÁSCARA-N95": 0.02501269768459705
+      },
+      "Hospitais - TO": {
+        "Fator de Utilização - FILTRO": 0.025205586075389183,
+        "Fator de Utilização - ÓCULOS": 0.05369596477464148,
+        "Fator de Utilização - CAIXA DE LUVA": 0.033068938352034054,
+        "Fator de Utilização - VISEIRA": 0.044825487737964256,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.014480613875186406,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.04576131505496317,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.034693639885983084,
+        "Fator de Utilização - MÁSCARA-N95": 0.024800244067296296
+      },
+      "Hospitais - RO": {
+        "Fator de Utilização - FILTRO": 0.0071835920314859076,
+        "Fator de Utilização - ÓCULOS": 0.004237301796191831,
+        "Fator de Utilização - CAIXA DE LUVA": 0.012660737095416038,
+        "Fator de Utilização - VISEIRA": 0.0029045168976367668,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.0009438318053332853,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.012764353422717796,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.015107994401127936,
+        "Fator de Utilização - MÁSCARA-N95": 0.006378504569462271
+      },
+      "Hospitais - ES": {
+        "Fator de Utilização - FILTRO": 0.0107638140536228,
+        "Fator de Utilização - ÓCULOS": 0.00932389695888791,
+        "Fator de Utilização - CAIXA DE LUVA": 0.008476792067491357,
+        "Fator de Utilização - VISEIRA": 0.007434991834996864,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.023357746266681807,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.01902330470348195,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.009948547142295268,
+        "Fator de Utilização - MÁSCARA-N95": 0.007898122871416557
+      },
+      "Hospitais - MG": {
+        "Fator de Utilização - FILTRO": 0.01610172636789667,
+        "Fator de Utilização - ÓCULOS": 0.024643255183115644,
+        "Fator de Utilização - CAIXA DE LUVA": 0.014862012222647838,
+        "Fator de Utilização - VISEIRA": 0.021145595874751868,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.03176169913352137,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.028251406400211034,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.01486032236176518,
+        "Fator de Utilização - MÁSCARA-N95": 0.020771056843713987
+      },
+      "Hospitais - RJ": {
+        "Fator de Utilização - FILTRO": 0.009554834938904298,
+        "Fator de Utilização - ÓCULOS": 0.005372204850376542,
+        "Fator de Utilização - CAIXA DE LUVA": 0.018586333650031605,
+        "Fator de Utilização - VISEIRA": 0.028914138138880285,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.017389226051645123,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.014801599719395292,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.015239111173774512,
+        "Fator de Utilização - MÁSCARA-N95": 0.021230056970898987
+      },
+      "Hospitais - SP": {
+        "Fator de Utilização - FILTRO": 0.032023283148426646,
+        "Fator de Utilização - ÓCULOS": 0.03426259012020288,
+        "Fator de Utilização - CAIXA DE LUVA": 0.023715996476934856,
+        "Fator de Utilização - VISEIRA": 0.030879211044739847,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.026060423768674675,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.025038702136949073,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.022878357648532473,
+        "Fator de Utilização - MÁSCARA-N95": 0.02549326941341333
+      },
+      "Hospitais - PR": {
+        "Fator de Utilização - FILTRO": 0.004386506120401466,
+        "Fator de Utilização - ÓCULOS": 0.008382448268412543,
+        "Fator de Utilização - CAIXA DE LUVA": 0.008225135805984277,
+        "Fator de Utilização - VISEIRA": 0.010233156327808364,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.010147992755185346,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.014766225805690486,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.011526913174062469,
+        "Fator de Utilização - MÁSCARA-N95": 0.010539540114328888
+      },
+      "Hospitais - RS": {
+        "Fator de Utilização - FILTRO": 0.011656151424295035,
+        "Fator de Utilização - ÓCULOS": 0.005312198174078326,
+        "Fator de Utilização - CAIXA DE LUVA": 0.014830580402649271,
+        "Fator de Utilização - VISEIRA": 0.022150419870008382,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.011661635637295683,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.017308415534516508,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.01628358948291433,
+        "Fator de Utilização - MÁSCARA-N95": 0.0070268484534323356
+      },
+      "Hospitais - SC": {
+        "Fator de Utilização - FILTRO": 0.025652458019753622,
+        "Fator de Utilização - ÓCULOS": 0.013942491043372284,
+        "Fator de Utilização - CAIXA DE LUVA": 0.017418863466049202,
+        "Fator de Utilização - VISEIRA": 0.020694913412876062,
+        "Fator de Utilização - CIRCUITO DE ASPIRAÇÃO FECHADO (stericath)": 0.023458206015617447,
+        "Fator de Utilização - AVENTAL/CAPOTE": 0.023163684119781237,
+        "Fator de Utilização - MÁSCARA CIRÚRGICA": 0.01963527741258015,
+        "Fator de Utilização - MÁSCARA-N95": 0.014815496509038255
+      }
+    },
